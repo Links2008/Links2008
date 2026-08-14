@@ -6,8 +6,6 @@
 
 把 DeepSeek Harness 做成更方便安装和使用的 Windows 桌面版。
 
-![DeepSeek Harness 设置界面](https://github.com/user-attachments/assets/7671635e-0174-42ec-8ef3-72ae212701b3)
-
 [查看项目](https://github.com/Links2008/Deepseek-Harness-) · [下载最新版](https://github.com/Links2008/Deepseek-Harness-/releases/latest)
 
 ## 其他项目
