@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Links 👋
 
-<!--
-**Links2008/Links2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+科技爱好者，喜欢折腾 AI、Windows 和各种有意思的软件。
 
-Here are some ideas to get you started:
+## DeepSeek Harness Desktop
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+把 DeepSeek Harness 做成更方便安装和使用的 Windows 桌面版。
+
+![DeepSeek Harness 设置界面](https://github.com/user-attachments/assets/7671635e-0174-42ec-8ef3-72ae212701b3)
+
+[查看项目](https://github.com/Links2008/Deepseek-Harness-) · [下载最新版](https://github.com/Links2008/Deepseek-Harness-/releases/latest)
+
+## 其他项目
+
+- [smart-prompt-v2](https://github.com/Links2008/smart-prompt-v2) — Prompt 优化工具原型。
